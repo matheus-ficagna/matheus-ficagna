@@ -1,16 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ 👋 Olá! Me chamo Matheus Ficagna.
+  Estou cursando <strong>Análise e Desenvolvimento de Sistemas<strong> pela <strong>Universidade do Vale do Rio dos Sinos<strong> e também curso técnico em <strong>Desenvolvimento de Sistemas<strong> pelo <strong>SENAI-RS<strong>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: <img align="center" alt="Matheus-Java" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" alt="Matheus-Python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Git | GitHub | VS Code | NetBeans | MySQL  
 </p>
 
 <p align="left">
