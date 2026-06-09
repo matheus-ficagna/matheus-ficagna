@@ -14,9 +14,7 @@
   💼 Ferramentas: Git | GitHub | VS Code | NetBeans | MySQL  
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 
 <p align="left">
   <a href="#" title="Gmail">
