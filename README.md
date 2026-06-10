@@ -2,7 +2,7 @@
 
 <p align="left"> 
  👋 Olá! Me chamo Matheus Ficagna.
-  Estou cursando <strong>Análise e Desenvolvimento de Sistemas<strong> pela <strong>Universidade do Vale do Rio dos Sinos<strong> e também curso técnico em <strong>Desenvolvimento de Sistemas<strong> pelo <strong>SENAI-RS<strong>
+  Estou cursando <strong>Análise e Desenvolvimento de Sistemas<strong> pela <strong>Universidade do Vale do Rio dos Sinos<strong> e também curso técnico em <strong>Desenvolvimento de Sistemas<strong> pelo <strong>SENAI-RS<strong>.
 </p>
 
 <p align="left">
