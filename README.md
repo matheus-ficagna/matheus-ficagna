@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <img align="center" alt="Matheus-Java" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" alt="Matheus-Java" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <img align="center" alt="Matheus-Python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 </p>
 
