@@ -17,8 +17,8 @@
 
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:matheusficagna7@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/matheus-ficagna/" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-ficagna/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/matheus-ficagna" alt="LinkedIn"/></a>
  
